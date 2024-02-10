@@ -1,3 +1,6 @@
+![Picsart_24-02-10_15-35-50-395](https://github.com/VaysiDevelopmentCenter/HorizonGreenHeart/assets/151166631/b08d198e-3740-46e2-ba82-14fd7c27602c)
+
+
 ## Horizon GreenHeart: Where Innovation Meets Sustainability in Agriculture
 
 Introducing **Horizon GreenHeart**, the revolutionary new drone poised to transform the future of agriculture. This marvel of technology seamlessly blends **cutting-edge artificial intelligence (AI)** and **machine learning (ML)** with a **deep respect for the environment**, making it more than just a tool – it's a **sustainable partner** for farmers around the world.
@@ -22,3 +25,5 @@ Introducing **Horizon GreenHeart**, the revolutionary new drone poised to transf
 **Are you ready to embrace the future of agriculture?**
 
 **Contact us today to learn more about Horizon GreenHeart and how it can revolutionize your farm.**
+
+![PicsArt_11-27-10 19 10](https://github.com/VaysiDevelopmentCenter/HorizonGreenHeart/assets/151166631/cd072367-591a-4a7c-bb10-ab3f18e72a65)
