@@ -1,4 +1,5 @@
-![Picsart_24-02-10_15-35-50-395](https://github.com/VaysiDevelopmentCenter/HorizonGreenHeart/assets/151166631/b08d198e-3740-46e2-ba82-14fd7c27602c)
+![img_202411020471](https://github.com/VaysiDevelopmentCenter/HorizonGreenHeart/assets/151166631/96f84e61-18d9-45c9-9f5e-6d9ead205ed3)
+
 
 
 ## Horizon GreenHeart: Where Innovation Meets Sustainability in Agriculture
@@ -26,4 +27,5 @@ Introducing **Horizon GreenHeart**, the revolutionary new drone poised to transf
 
 **Contact us today to learn more about Horizon GreenHeart and how it can revolutionize your farm.**
 
-![PicsArt_11-27-10 19 10](https://github.com/VaysiDevelopmentCenter/HorizonGreenHeart/assets/151166631/cd072367-591a-4a7c-bb10-ab3f18e72a65)
+![img_2024110204740](https://github.com/VaysiDevelopmentCenter/HorizonGreenHeart/assets/151166631/bc867c22-c331-471e-a1b1-b2904b2cfd4a)
+
