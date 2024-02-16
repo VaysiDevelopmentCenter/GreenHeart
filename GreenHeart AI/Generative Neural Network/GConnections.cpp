@@ -1,8 +1,3 @@
-// A sample source code for a simple generative adversarial network in C++
-// This code uses Eigen and OpenCV libraries
-// This code can generate new images of human faces
-// This code is about 300 lines and written in C++
-
 // Include the necessary libraries
 #include <iostream>
 #include <eigen3/Eigen/Eigen>
