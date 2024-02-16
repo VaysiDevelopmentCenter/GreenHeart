@@ -1,8 +1,3 @@
-// A sample source code for a simple recurrent neural network in C++
-// This code uses Eigen and mlpack libraries
-// This code can generate captions for images
-// This code is about 200 lines and written in C++
-
 // Include the necessary libraries
 #include <iostream>
 #include <eigen3/Eigen/Eigen>
