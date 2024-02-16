@@ -1,16 +1,16 @@
 /**
- * @file  kernel/arch/aarch64/rpi400/main.c
- * @brief Boot stub for Raspberry Pi 400.
+ * @file  kernel/arch/aarch64/bootstub/main.c
+ * @brief Shim loader for QEMU virt machine.
  *
- * This gets built into kernel8.img, which embeds the actual kernel and
- * a compress ramdisk. The bootstub is responsible for acquiring the
- * initial framebuffer, setting the cores to max speed, setting up the
- * MMU, and loading the actual kernel at -2GiB.
+ * Loads at 0x4010_0000 where RAM is, sets up the MMU to have RAM
+ * at our kernel virtual load address (0xffff_ffff_8000_0000), as
+ * well as a direct mapping at -512GB for access to IO devices,
+ * reads the kernel out of fw-cfg, loads it to the kernel virtual
+ * load address, and then jumps to it.
  *
  * @copyright
- * This file is part of ToaruOS and is released under the terms
- * of the NCSA / University of Illinois License - see LICENSE.md
- * Copyright (C) 2022 K. Lange
+ * This file is part of PolarisOS and is released under the terms
+ * Copyright (C) VDC.
  */
 #include <stdint.h>
 #include <kernel/printf.h>
