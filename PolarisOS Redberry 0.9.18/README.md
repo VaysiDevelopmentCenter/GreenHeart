@@ -25,7 +25,7 @@ PolarisOS Redberry is a highly customizable, lightweight operating system design
 
 We provide comprehensive documentation and a vibrant community forum to help you get started with Redberry and answer any questions you may have.
 
-* **Documentation:** PolarisOS Redberry [Documents](vdc.oware.com/Polaris/PolarisOSRedberry/Doc)
+* **Documentation:** [PolarisOS Redberry Documents](vdc.oware.com/Polaris/PolarisOSRedberry/Doc)
 * **Community Forum:** [PolarisOS Redberry Free Forums](vdc.oware.com/Polaris/PolarisOSRedberry/Forum)
 
 **Join the Redberry Revolution!**
