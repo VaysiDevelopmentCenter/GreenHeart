@@ -1,8 +1,8 @@
 /**
- * @file kernel/arch/aarch64/context.S
+ * @file kernel/Polaris/Polaris64/context.S
  * @brief Kernel context switching utilities.
  *
- * arch_save_context and arch_restore_context are basically
+ * Polaris_save_context and Polaris_restore_context are basically
  * setjmp and longjmp. _restore_context will also set the
  * previous thread as no longer running.
  */
