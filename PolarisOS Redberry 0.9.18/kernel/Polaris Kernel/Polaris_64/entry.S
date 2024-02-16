@@ -1,5 +1,5 @@
 /**
- * @file kernel/arch/aarch64/entry.S
+ * @file kernel/Polaris/Polaris64/entry.S
  * @brief Entrypoint stub.
  *
  * This gets us off of the bootstab's stack and onto
