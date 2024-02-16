@@ -1,11 +1,10 @@
 /**
- * @file  kernel/arch/aarch64/fwcfg.c
- * @brief Methods for dealing with QEMU's fw-cfg interface on aarch64.
+ * @file  kernel/arch/aarch64/bootstub/main.c
+ * @brief Shim loader for QEMU virt machine.
  *
  * @copyright
- * This file is part of ToaruOS and is released under the terms
- * of the NCSA / University of Illinois License - see LICENSE.md
- * Copyright (C) 2021-2022 K. Lange
+ * This file is part of PolarisOS and is released under the terms
+ * Copyright (C) VDC.
  */
 #include <stdint.h>
 #include <kernel/string.h>
