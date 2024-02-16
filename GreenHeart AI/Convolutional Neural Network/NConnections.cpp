@@ -1,8 +1,3 @@
-// A sample source code for a simple convolutional neural network in C++
-// This code uses Eigen and OpenCV libraries
-// This code can classify MNIST images of handwritten digits from 0 to 9
-// This code is about 100 lines and written in C++
-
 // Include the necessary libraries
 #include <iostream>
 #include <opencv2/opencv.hpp>
