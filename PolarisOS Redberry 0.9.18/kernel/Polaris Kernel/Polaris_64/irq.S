@@ -1,5 +1,5 @@
 /**
- * @file kernel/arch/aarch64/irq.S
+ * @file kernel/Polaris/Polaris64/irq.S
  * @brief Exception entry points.
  *
  * These are still very hacky and rudimentary and we're
