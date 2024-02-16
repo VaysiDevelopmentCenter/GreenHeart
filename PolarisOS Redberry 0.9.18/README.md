@@ -16,16 +16,17 @@ PolarisOS Redberry is a highly customizable, lightweight operating system design
 
 **Getting Started:**
 
-1. **Download:** Download the latest version of PolarisOS Redberry from our website: [[[invalid URL removed]]([invalid URL removed])]
+1. **Download:** Download the latest version of PolarisOS Redberry from our website: [[[vdc.oware.com/Polaris/PolarisOSRedberry/Download])]
 2. **Flash:** Flash the Redberry image onto your IoT device using a suitable flashing tool.
 3. **Configure:** Follow the instructions in our documentation to configure Redberry for your specific device and application.
+   "So easily!"
 
 **Documentation and Community:**
 
 We provide comprehensive documentation and a vibrant community forum to help you get started with Redberry and answer any questions you may have.
 
-* **Documentation:** [[[invalid URL removed]]([invalid URL removed])]
-* **Community Forum:** [[[invalid URL removed]]([invalid URL removed])]
+* **Documentation:** [[[vdc.oware.com/Polaris/PolarisOSRedberry/Doc])]
+* **Community Forum:** [[vdc.oware.com/Polaris/PolarisOSRedberry/Forum])]
 
 **Join the Redberry Revolution!**
 
