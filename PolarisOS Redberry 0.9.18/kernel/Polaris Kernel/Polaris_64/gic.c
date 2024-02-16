@@ -1,11 +1,16 @@
 /**
- * @file  kernel/arch/aarch64/virtio.c
- * @brief Rudimentary, hacky implementations of virtio input devices.
+ * @file  kernel/arch/aarch64/bootstub/main.c
+ * @brief Shim loader for QEMU virt machine.
+ *
+ * Loads at 0x4010_0000 where RAM is, sets up the MMU to have RAM
+ * at our kernel virtual load address (0xffff_ffff_8000_0000), as
+ * well as a direct mapping at -512GB for access to IO devices,
+ * reads the kernel out of fw-cfg, loads it to the kernel virtual
+ * load address, and then jumps to it.
  *
  * @copyright
- * This file is part of ToaruOS and is released under the terms
- * of the NCSA / University of Illinois License - see LICENSE.md
- * Copyright (C) 2021-2022 K. Lange
+ * This file is part of PolarisOS and is released under the terms
+ * Copyright (C) VDC.
  */
 #include <stdint.h>
 #include <kernel/printf.h>
