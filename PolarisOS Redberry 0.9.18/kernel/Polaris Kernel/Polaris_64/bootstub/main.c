@@ -1,5 +1,5 @@
 /**
- * @file  kernel/arch/aarch64/bootstub/main.c
+ * @file  kernel/Polaris/Polaris64/bootstub/main.c
  * @brief Shim loader for QEMU virt machine.
  *
  * Loads at 0x4010_0000 where RAM is, sets up the MMU to have RAM
