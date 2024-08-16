@@ -20,7 +20,7 @@ Introducing **GreenHeart**, the revolutionary new ecosystem poised to transform 
 * **Environmentally friendly:** Reduce your carbon footprint and conserve resources with **precise and efficient operations**.
 * **Reduce Carbon:** With the automatic updates of the GreenHeart ecosystem, you will help to reduce environmental carbon based on the collection of carbon data from the environment and the automatic schedule of the ecosystem update.
 
-**Horizon GreenHeart isn't just a technology, it's a commitment to a greener future.** It's about **growing more with less**, protecting our planet, and ensuring a bountiful harvest for generations to come.
+**GreenHeart isn't just a technology, it's a commitment to a greener future.** It's about **growing more with less**, protecting our planet, and ensuring a bountiful harvest for generations to come.
 
 **Are you ready to embrace the future of agriculture?**
 
