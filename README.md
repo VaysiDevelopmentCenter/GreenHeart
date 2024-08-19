@@ -10,7 +10,7 @@ Introducing **GreenHeart**, the revolutionary new ecosystem poised to transform 
 * **Optimizing** resource usage with **data-driven insights**, minimizing waste and maximizing yield.
 * **Protecting** your crops from pests and diseases with **targeted interventions**, reducing reliance on harmful chemicals.
 
-**Horizon GreenHeart** empowers you to do all this and more. 
+**GreenHeart** empowers you to do all this and more. 
 
 **Here's what sets it apart:**
 
