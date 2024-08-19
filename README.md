@@ -24,7 +24,7 @@ Introducing **GreenHeart**, the revolutionary new ecosystem poised to transform 
 
 **Are you ready to embrace the future of agriculture?**
 
-**Contact us today to learn more about Horizon GreenHeart and how it can revolutionize your farm.**
+**Contact us today to learn more about GreenHeart and how it can revolutionize your farm.**
 
 ![img_2024110204740](https://github.com/VaysiDevelopmentCenter/HorizonGreenHeart/assets/151166631/bc867c22-c331-471e-a1b1-b2904b2cfd4a)
 
