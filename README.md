@@ -1,3 +1,4 @@
+![image (1)](https://github.com/user-attachments/assets/3b9d152a-c90b-4742-8ac3-16dbcb5e9a59)
 
 
 ## GreenHeart: Where Innovation Meets Sustainability in Agriculture
